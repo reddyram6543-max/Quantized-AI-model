@@ -82,8 +82,6 @@ The model is trained using the MNIST dataset. The training process involves the 
 ```
 pip install -r requirements.txt
 ```
-### Step 2: Setup Configuration
-Edit [trainingparameter.yaml](./trainingparameters.yaml) file and update configuration settings as per following.
 
 #### Quantization Settings
 
