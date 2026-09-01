@@ -196,8 +196,7 @@ python exportquant.py
     ```
     ./testoutput.o
     ```
-  - You should be able to see the labels and predictions generated for the test images
-  ![test output of model](images/test_output.jpeg)
+  
 
 ### Generating dll file for inference
 1. install Make 
