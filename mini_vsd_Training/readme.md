@@ -168,8 +168,7 @@ This configuration script sets the parameters for a machine learning experiment 
   ```
   python training.py
   ```
-![training start](images/training_start.jpeg)
-![training end](images/training_end.jpeg)
+
 
 - Once training ends trained model will be saved in modeldata folder
 
