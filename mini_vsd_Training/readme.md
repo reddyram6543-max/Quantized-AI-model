@@ -180,11 +180,8 @@ use following command
 python exportquant.py
 ``` 
 - This will model weights in **BitNetMCU_model.h** file
-- We Tried changing multiple model parameters via **trainingparameters.yaml** file and saved to parameters as files with network sizes added
-#### Weight Distribution of generated weights of model
-![Weight Distribution of generated weights of model](./images/weight_distribution.jpeg)
-#### Weight Intensity of generated weights of model
-![Weight Intensity of generated weights of model](./images/weight_intensity.jpeg)
+- We Tried changing multiple model parameters via **trainingparameters.yaml** file and saved to parameters as files with network sizes adde
+
 
 ### Testing Output prediction of model 
 - Here we try to provide multiple 28x28 images as input to the model and test the generated predictions
