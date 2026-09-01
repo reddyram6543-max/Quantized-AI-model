@@ -1,1 +1,0 @@
-# Quantized-AI-model
